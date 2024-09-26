@@ -24,7 +24,7 @@ Gage is a tool designed to simplify and promote local political engagement by ma
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/gage.git
+   git clone https://github.com/kendalllindley/gage.git
    cd gage
    ```
 
